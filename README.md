@@ -14,5 +14,5 @@ This repository provides practical examples of implementing different types of L
 -   Agent
 
 # Usage
-Each  namespace documents a workflow. The repository require Claude API. More support to be added in future.
+Each  namespace documents a workflow. The repository requires Openai API. More support to be added in future.
 
