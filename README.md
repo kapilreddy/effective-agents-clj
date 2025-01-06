@@ -6,12 +6,12 @@ A repository of various agents. Inspired by Anthropic's post - [building effecti
 
 This repository provides practical examples of implementing different types of LLM and agent workflows in Clojure, showcasing:
 
--   Prompt chaining
--   Routing
--   Parallelization
--   Orchestrator-workers
--   Evaluator-optimizer
--   Agent
+-   [X] Prompt chaining 
+-   [X] Routing
+-   [X] Parallelization
+-   [ ] Orchestrator-workers
+-   [ ] Evaluator-optimizer
+-   [ ] Agent
 
 # Usage
 Each  namespace documents a workflow. The repository requires Openai API. More support to be added in future.
