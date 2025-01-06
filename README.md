@@ -1,6 +1,9 @@
+
 # effective-agents-clj
+<img src="assets/logo.png" width="200" alt="Logo" align="right" />
 
 A repository of various agents. Inspired by Anthropic's post - [building effective agents](https://www.anthropic.com/research/building-effective-agents)
+
 
 ## Overview
 
